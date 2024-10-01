@@ -1,9 +1,9 @@
-##Zorunlu Yaz Stajı(STAJ22001) Rent A Car Sitesi 
+#Zorunlu Yaz Stajı(STAJ22001) Rent A Car Sitesi 
 
 
 1210505030	Abdulsamet Gülsüm	Yazılım Mühendisliği
 
-##Proje Açıklaması
+#Proje Açıklaması
 Bu proje, Vue.js tabanlı bir uygulama olup Axios ile veri çekme, child component (alt bileşen) direktifleri, form doğrulama ve `v-model` gibi Vue.js özelliklerini içerir. Proje, kullanıcı dostu bir arayüzle veri alışverişi sağlayan formlar ve analiz araçları sunar.
 ##Kurulum ve Kullanım
 Bu proje, Vue.js, Vuetify ve Node.js tabanlı bir Rent A Car web uygulamasıdır. Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edin:
